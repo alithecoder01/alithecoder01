@@ -4,7 +4,7 @@
 I'm a dedicated IT professional with a Bachelor of Science in Information Technology. Passionate about the world of mobile applications, I thrive on turning innovative ideas into reality.
 
 ## Tech & Projects 💡
-My heart beats for mobile app development, whether it's crafting intuitive user experiences or integrating cutting-edge functionalities, I'm all in. Here, you'll find a portfolio of projects that showcase my journey, skills, and dedication to mobile technology.
+I am passionate about mobile app development, whether it's crafting intuitive user experiences or integrating cutting-edge functionalities, I'm all in. Here, you'll find a portfolio of projects that showcase my journey, skills, and dedication to mobile technology.
 
 ## Programming Languages 🧑🏻‍💻
 ![image](https://github.com/alithecoder01/alithecoder01/assets/72815025/16947847-4f3f-4338-9cd5-7887f532857d)
